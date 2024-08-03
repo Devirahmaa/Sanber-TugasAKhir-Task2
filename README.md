@@ -1,4 +1,3 @@
-Here is a sample `README.md` file for the repository:
 
 ```markdown
 # Sanber-TugasAkhir-Task2
